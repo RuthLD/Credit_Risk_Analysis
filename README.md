@@ -1,5 +1,5 @@
 # Credit_Risk_Analysis
-Evaluate several machine learning models to asses credit card risk.
+Evaluate several machine learning models to assess credit card risk.
 ## Overview:
 Use six machine learning models to evaluate which has the highest accuracy and precision in evaluating credit card risk.
 ## Results:
